@@ -51,12 +51,12 @@ body {
     linear-gradient(90deg, rgb(7, 107, 42), rgb(240, 240, 240));
 }
 .happy-woman-day {
-  color: white;
-  font-size: 50px;
-  transform-origin: bottom center;
-  text-align: center;
-  position: fixed;
-  top: 80px;
+    color: white;
+    font-size: 50px;
+    position: fixed;
+    top: 80px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .flowers {
