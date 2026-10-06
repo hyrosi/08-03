@@ -61,10 +61,6 @@ body {
   position: relative;
   transform: scale(0.9);
 }
-.flowers {
-  position: relative;
-  transform: scale(0.9);
-}
 
 .flower {
   position: absolute;
