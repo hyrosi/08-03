@@ -53,7 +53,7 @@ body {
 .happy-woman-day {
   color: white;
   font-size: 50px;
-  tranform-origin: bottom center;
+  transform-origin: bottom center;
   position: fixed;
   top: 80px;
 }
