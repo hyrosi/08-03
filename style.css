@@ -50,7 +50,17 @@ body {
       transparent 22px),
     linear-gradient(90deg, rgb(7, 107, 42), rgb(240, 240, 240));
 }
+.happy-woman-day {
+  color: white;
+  font-size: 50px;
+  position: fixed;
+  top: 80px;
+}
 
+.flowers {
+  position: relative;
+  transform: scale(0.9);
+}
 .flowers {
   position: relative;
   transform: scale(0.9);
