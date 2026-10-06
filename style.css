@@ -54,6 +54,7 @@ body {
   color: white;
   font-size: 50px;
   transform-origin: bottom center;
+  text-align: center;
   position: fixed;
   top: 80px;
 }
